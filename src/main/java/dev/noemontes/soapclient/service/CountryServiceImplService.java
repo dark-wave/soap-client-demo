@@ -1,5 +1,5 @@
 
-package dev.noemontes.soapclient.generated;
+package dev.noemontes.soapclient.service;
 
 import java.net.MalformedURLException;
 import java.net.URL;

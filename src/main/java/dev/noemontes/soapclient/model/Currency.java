@@ -1,5 +1,5 @@
 
-package dev.noemontes.soapclient.generated;
+package dev.noemontes.soapclient.model;
 
 import javax.xml.bind.annotation.XmlEnum;
 import javax.xml.bind.annotation.XmlType;

@@ -1,7 +1,9 @@
 
-package dev.noemontes.soapclient.generated;
+package dev.noemontes.soapclient.factory;
 
 import javax.xml.bind.annotation.XmlRegistry;
+
+import dev.noemontes.soapclient.model.Country;
 
 
 /**

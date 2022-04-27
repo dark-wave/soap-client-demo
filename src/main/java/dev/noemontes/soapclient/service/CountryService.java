@@ -1,8 +1,10 @@
 
-package dev.noemontes.soapclient.generated;
+package dev.noemontes.soapclient.service;
 
 import javax.xml.bind.annotation.XmlSeeAlso;
 
+import dev.noemontes.soapclient.factory.ObjectFactory;
+import dev.noemontes.soapclient.model.Country;
 import jakarta.jws.WebMethod;
 import jakarta.jws.WebParam;
 import jakarta.jws.WebResult;
